@@ -51,7 +51,7 @@ class AppointmentScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 15),
                   Text(
-                    "Dra. Cyril",
+                    "Dr. [Doctor Name] ",
                     style: TextStyle(
                       fontSize: 23,
                       fontWeight: FontWeight.w500,
