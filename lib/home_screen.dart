@@ -271,7 +271,7 @@ class HomeScreen extends StatelessWidget {
                                         ),
                                       ),
                                       Text(
-                                        "Surgeon",
+                                        "Specialist",
                                         style: TextStyle(
                                           fontSize: 16,
                                           color: Colors.black.withOpacity(0.6),
