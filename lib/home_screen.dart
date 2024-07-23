@@ -48,7 +48,7 @@ class HomeScreen extends StatelessWidget {
                       ),
                       SizedBox(width: 15),
                       Text(
-                        "Hi, User!",
+                        "Hi, Cyril!",
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.w500,
