@@ -67,7 +67,7 @@ class DoctorScreen extends StatelessWidget {
                         ),
                         SizedBox(height: 5),
                         Text(
-                          "Surgeon",
+                          "Specialist",
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                             color: Colors.white,
