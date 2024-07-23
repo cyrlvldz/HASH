@@ -156,9 +156,9 @@ class _ChatScreenState extends State<ChatScreen> {
                 padding: const EdgeInsets.only(left: 25),
                 children: [
                   buildConversationRow('Dr. Ej', 'Hello, how are you', 'doctor1.jpg', 0),
-                  buildConversationRow('Dr. Joan', 'Will you visit me', 'doctor2.jpg', 2),
-                  buildConversationRow('Dr. Patrick', 'Kumain kana ba?', 'doctor3.jpg', 6),
-                  buildConversationRow('Dr. Cyril', 'I love you ...', 'doctor4.jpg', 0),
+                  buildConversationRow('Dra. Joanne', 'Will you visit me', 'doctor2.jpg', 2),
+                  buildConversationRow('Dr. Patrick', 'How are you?', 'doctor3.jpg', 6),
+                  buildConversationRow('Dra. Cyril', 'You can visit now', 'doctor4.jpg', 0),
                 ],
               ),
             ),
