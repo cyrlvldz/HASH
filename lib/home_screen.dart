@@ -5,19 +5,19 @@ import 'package:material_design_icons_flutter/material_design_icons_flutter.dart
 class HomeScreen extends StatelessWidget {
   List catNames = [
     "Antigen",
-    "Rapid Oral",
     "Urine Test",
     "HIV RNA",
     "CBC",
+    "Rapid Oral",
   ];
 
   List<Icon> catIcons = [
-    Icon(MdiIcons.toothOutline, color: Colors.redAccent, size: 30),
-    Icon(MdiIcons.heartPlus, color: Colors.redAccent, size: 30),
-    Icon(MdiIcons.eye, color: Colors.redAccent, size: 30),
-    Icon(MdiIcons.brain, color: Colors.redAccent, size: 30),
-    Icon(MdiIcons.earHearing, color: Colors.redAccent, size: 30),
-  ];
+  Icon(MdiIcons.flaskEmpty, color: Colors.redAccent, size: 30),
+  Icon(MdiIcons.beaker, color: Colors.redAccent, size: 30),
+  Icon(MdiIcons.dna, color: Colors.redAccent, size: 30),
+  Icon(MdiIcons.bloodBag, color: Colors.redAccent, size: 30),
+  Icon(MdiIcons.microscope, color: Colors.redAccent, size: 30),
+];
 
   List imgs = [
     "images/doctor1.jpg",
@@ -255,7 +255,7 @@ class HomeScreen extends StatelessWidget {
                                     ),
                                   ],
                                 ),
-                                SizedBox(height: 8),
+                                SizedBox(height: 10),
                                 Padding(
                                   padding: EdgeInsets.symmetric(horizontal: 5),
                                   child: Column(
@@ -263,7 +263,7 @@ class HomeScreen extends StatelessWidget {
                                         CrossAxisAlignment.start,
                                     children: [
                                       Text(
-                                        "Dra. Cyril",
+                                        "Dr. [Doctor Name]",
                                         style: TextStyle(
                                           fontSize: 20,
                                           fontWeight: FontWeight.w500,
@@ -277,7 +277,7 @@ class HomeScreen extends StatelessWidget {
                                           color: Colors.black.withOpacity(0.6),
                                         ),
                                       ),
-                                      SizedBox(height: 8),
+                                      SizedBox(height: 10),
                                       Row(
                                         children: [
                                           Icon(
