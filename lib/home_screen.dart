@@ -48,7 +48,7 @@ class HomeScreen extends StatelessWidget {
                       ),
                       SizedBox(width: 15),
                       Text(
-                        "Hi, Cyril!",
+                        "Hi, Jerome!",
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.w500,
@@ -263,7 +263,7 @@ class HomeScreen extends StatelessWidget {
                                         CrossAxisAlignment.start,
                                     children: [
                                       Text(
-                                        "Dr. Doctor Name",
+                                        "Dra. Cyril",
                                         style: TextStyle(
                                           fontSize: 20,
                                           fontWeight: FontWeight.w500,
