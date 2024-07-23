@@ -66,7 +66,7 @@ class UpcomingSchedule extends StatelessWidget {
                           ),
                           SizedBox(width: 5),
                           Text(
-                            "10/05/2024",
+                            "05/11/2024",
                             style: TextStyle(
                               color: Colors.black54,
                             ),
@@ -81,7 +81,7 @@ class UpcomingSchedule extends StatelessWidget {
                           ),
                           SizedBox(width: 5),
                           Text(
-                            "09:00 PM",
+                            "09:00 AM",
                             style: TextStyle(
                               color: Colors.black54,
                             ),
