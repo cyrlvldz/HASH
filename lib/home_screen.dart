@@ -4,11 +4,11 @@ import 'package:material_design_icons_flutter/material_design_icons_flutter.dart
 
 class HomeScreen extends StatelessWidget {
   List catNames = [
-    "Dental",
-    "Heart",
-    "Eye",
-    "Brain",
-    "Ear",
+    "Antigen Test",
+    "Rapid Oral Test",
+    "Urine Test",
+    "HIV RNA",
+    "Complete Blood Count",
   ];
 
   List<Icon> catIcons = [
