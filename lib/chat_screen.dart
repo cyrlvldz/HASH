@@ -124,11 +124,11 @@ class _ChatScreenState extends State<ChatScreen> {
                   child: ListView(
                     scrollDirection: Axis.horizontal,
                     children: [
-                      buildContactAvatar('Doctor1', 'doctor1.jpg'),
-                      buildContactAvatar('Doctor2', 'doctor2.jpg'),
-                      buildContactAvatar('Doctor3', 'doctor3.jpg'),
-                      buildContactAvatar('Doctor4', 'doctor4.jpg'),
-                      buildContactAvatar('Doctor5', 'doctor5.jpg'),
+                      buildContactAvatar('Dra. Cyril', 'doctor1.jpg'),
+                      buildContactAvatar('Dra. Joanne', 'doctor2.jpg'),
+                      buildContactAvatar('Dr. Patrick', 'doctor3.jpg'),
+                      buildContactAvatar('Dr. Ej', 'doctor4.jpg'),
+                      buildContactAvatar('Dra. Precious', 'doctor5.jpg'),
                     ],
                   ),
                 ),
