@@ -128,7 +128,7 @@ class _ChatScreenState extends State<ChatScreen> {
                       buildContactAvatar('Dra. Joanne', 'doctor2.jpg'),
                       buildContactAvatar('Dr. Patrick', 'doctor3.jpg'),
                       buildContactAvatar('Dr. Ej', 'doctor4.jpg'),
-                      buildContactAvatar('Dra. Precious', 'doctor5.jpg'),
+                      buildContactAvatar('Dra. Pre', 'doctor5.jpg'),
                     ],
                   ),
                 ),
