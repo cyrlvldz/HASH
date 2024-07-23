@@ -139,7 +139,7 @@ class AppointmentScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                    "An Infectious Disease (ID) Specialist diagnoses, treats, and manages HIV/AIDS, prescribes antiretroviral therapy, and monitors patients' immune health.",
                     style: TextStyle(
                       fontSize: 15,
                       fontWeight: FontWeight.w500,
