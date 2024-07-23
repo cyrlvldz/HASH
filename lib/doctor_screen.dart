@@ -152,7 +152,7 @@ class DoctorScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 5),
                   Text(
-                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                    "An Infectious Disease (ID) Specialist is a medical doctor who specializes in diagnosing, treating, and managing infectious diseases, including HIV/AIDS. They are experts in managing complex infections, prescribing antiretroviral therapy, and monitoring patients' immune health. They work closely with other healthcare providers to offer comprehensive care for individuals living with HIV.",
                     style: TextStyle(
                       fontSize: 16,
                       color: Colors.black54,
