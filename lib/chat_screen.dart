@@ -155,10 +155,10 @@ class _ChatScreenState extends State<ChatScreen> {
               child: ListView(
                 padding: const EdgeInsets.only(left: 25),
                 children: [
-                  buildConversationRow('Dr. Ej', 'Hello, how are you', 'doctor1.jpg', 0),
+                  buildConversationRow('Dra. Cyril', 'Hello, how are you', 'doctor1.jpg', 0),
                   buildConversationRow('Dra. Joanne', 'Will you visit me', 'doctor2.jpg', 2),
                   buildConversationRow('Dr. Patrick', 'How are you?', 'doctor3.jpg', 6),
-                  buildConversationRow('Dra. Cyril', 'You can visit now', 'doctor4.jpg', 0),
+                  buildConversationRow('Dr. Ej', 'You can visit now', 'doctor4.jpg', 0),
                 ],
               ),
             ),
