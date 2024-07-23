@@ -37,7 +37,7 @@ class UpcomingSchedule extends StatelessWidget {
                 children: [
                   ListTile(
                     title: Text(
-                      "Dr. Doctor Name",
+                      "Dr. [Doctor Name]",
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                       ),
