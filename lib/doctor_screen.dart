@@ -58,7 +58,7 @@ class DoctorScreen extends StatelessWidget {
                         ),
                         SizedBox(height: 15),
                         Text(
-                          "Dra. Cyril",
+                          "Dr. [Doctor Name]",
                           style: TextStyle(
                             fontSize: 23,
                             fontWeight: FontWeight.w500,
@@ -317,7 +317,7 @@ class DoctorScreen extends StatelessWidget {
       ),
       bottomNavigationBar: Container(
         padding: EdgeInsets.all(15),
-        height: 140,
+        height: 120,
         decoration: BoxDecoration(
           color: Colors.white,
           boxShadow: [
