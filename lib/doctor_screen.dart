@@ -236,7 +236,7 @@ class DoctorScreen extends StatelessWidget {
                                     ),
                                   ),
                                   title: Text(
-                                    "Dra. Cyril",
+                                    "[Doctor Name]",
                                     style: TextStyle(
                                       fontWeight: FontWeight.bold,
                                     ),
@@ -330,26 +330,6 @@ class DoctorScreen extends StatelessWidget {
         ),
         child: Column(
           children: [
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                Text(
-                  "Consultation Fee",
-                  style: TextStyle(
-                    color: Colors.black54,
-                    fontWeight: FontWeight.w500,
-                  ),
-                ),
-                Text(
-                  "100",
-                  style: TextStyle(
-                    fontSize: 20,
-                    color: Colors.redAccent.withOpacity(0.8),
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
-              ],
-            ),
             SizedBox(height: 15),
             InkWell(
               onTap: () {
