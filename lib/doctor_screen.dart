@@ -58,7 +58,7 @@ class DoctorScreen extends StatelessWidget {
                         ),
                         SizedBox(height: 15),
                         Text(
-                          "Dr. Cyril",
+                          "Dra. Cyril",
                           style: TextStyle(
                             fontSize: 23,
                             fontWeight: FontWeight.w500,
