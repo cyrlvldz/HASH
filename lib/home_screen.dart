@@ -113,7 +113,7 @@ class HomeScreen extends StatelessWidget {
                 Padding(
                   padding: EdgeInsets.only(left: 15),
                   child: Text(
-                    "Symptoms",
+                    "Laboratory Exam",
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.w500,
